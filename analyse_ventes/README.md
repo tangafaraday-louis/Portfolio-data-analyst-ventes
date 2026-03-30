@@ -26,7 +26,7 @@ Analyser les données de vente afin d’identifier les leviers d’amélioration
 ## 📷 Tableau de bord principal
 
 <p align="center">
-  <img src="analyse _ventes/images/Dashboard.png" width="800"/>
+  <img src="images/Dashboard.PNG" width="800"/>
 </p>
 
 ---
