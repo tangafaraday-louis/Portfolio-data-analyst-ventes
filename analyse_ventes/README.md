@@ -26,7 +26,7 @@ Analyser les données de vente afin d’identifier les leviers d’amélioration
 ## 📷 Tableau de bord principal
 
 <p align="center">
-  <img src="analyse _ventes/images/Dashboard.PNG" width="800"/>
+  <img src="images/dashboard.PNG" width="800"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Analyser les données de vente afin d’identifier les leviers d’amélioration
 ## 📉 Impact des remises
 
 <p align="center">
-  <img src="images/remises_profit.png" width="600"/>
+  <img src="images/remises_profit.PNG" width="600"/>
 </p>
 
 👉 Les remises supérieures à 20% entraînent des pertes importantes.
@@ -53,7 +53,7 @@ Analyser les données de vente afin d’identifier les leviers d’amélioration
 ## 👥 Analyse par segment client
 
 <p align="center">
-  <img src="images/segment_client.png" width="600"/>
+  <img src="images/segment_client.PNG" width="600"/>
 </p>
 
 👉 Le segment Consumer génère le plus de ventes, mais tous les segments ne sont pas également rentables.
