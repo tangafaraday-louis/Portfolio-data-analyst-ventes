@@ -43,6 +43,8 @@ J’aide les entreprises à :
 ### 🔹 Analyse des performances des ventes
 👉 [Voir le projet](analyse_ventes/)
 
+### 🔹 Analyse du comportement client – Segmentation RFM
+👉 [Voir le projet](analyse_clients/)
 ---
 
 ## 📬 Contact
