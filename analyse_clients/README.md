@@ -10,7 +10,6 @@ Segmenter les clients à partir de leur comportement d’achat afin d’identifi
 
 - Excel
 - PostgreSQL
-- Power BI
 
 ---
 
